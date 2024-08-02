@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=76BFCF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!;My+name+is+Isabelle+Reinbold.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Graduanda em Sistemas e Mídias Digitais - UFC
-- Em constante aprendizado! :)
-- 🌱 Data Scientist
+- 🌱 Cientista de Dados em constante aprendizado! :)
 - 📫 Como me contatar: reinbold.belle@gmail.com ou pelo meu linkedin: https://br.linkedin.com/in/isabellereinbold
 
 <div align="center">  
